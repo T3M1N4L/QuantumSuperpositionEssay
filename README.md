@@ -15,7 +15,7 @@ In classical physics, momentum, inertia, and position are well-defined. While in
 
   
 
-<img  title="P-T Diagram"  alt="Thermodynamics - Explaining the Critical Point, Medielab HVL | https://youtu.be/RmaJVxafesU"  src="https://images-2.t3rm1n4l.repl.co/Supercritical_Point.png">
+<img  title="P-T Diagram"  alt="Thermodynamics - Explaining the Critical Point, Medielab HVL | https://youtu.be/RmaJVxafesU"  src="https://raw.githubusercontent.com/T3M1N4L/QuantumSuperpositionEssay/main/Supercritical_Point.png">
 
   
 
@@ -70,7 +70,7 @@ Kurzgesagt - In a Nutshell. “Quantum Computers Explained – Limits of Human T
 Medielab HVL. “Thermodynamics - Explaining the Critical Point.” YouTube, 14 Jan. 2016, https://www.youtube.com/watch?v=RmaJVxafesU.
 
 <video width="640" height="360" controls>
-  <source src="https://images-2.t3rm1n4l.repl.co/Quantum_SuperPosition.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/T3M1N4L/QuantumSuperpositionEssay/main/Quantum_SuperPosition.mp4" type="video/mp4">
 </video>
 
 Dafox, https://dafox.co/en/tout_est_quantique
